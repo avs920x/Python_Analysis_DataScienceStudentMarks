@@ -4,6 +4,7 @@
 
 This project explores a dataset of student exam scores across multiple global locations to analyze technical skill performance, identify statistical patterns, and build a simple predictive model using Python. The analysis uses Pandas, NumPy, and Statsmodels to answer structured analytical questions and develop meaningful insights.
 
+
 📂 Dataset Description
 
 Each row represents a student and contains the following fields:
@@ -25,6 +26,7 @@ power_bi_marks
 english_marks
 
 This dataset, while small, is well-suited for practicing data exploration, descriptive statistics, and introductory modeling.
+
 
 🐍 Python Analysis
 
@@ -70,6 +72,7 @@ Fit the OLS model
 
 Examined coefficients, p-values, R², and model diagnostics
 
+
 🧠 Skills Demonstrated
 
 Exploratory Data Analysis (EDA)
@@ -94,6 +97,7 @@ Some locations show higher overall variance in performance, indicating greater s
 The regression model reveals which technical subjects most strongly relate to English performance.
 
 A subset of students demonstrates notably balanced or unbalanced skill profiles.
+
 
 🚀 Future Improvements
 
